@@ -63,7 +63,7 @@ Things you could ask your LLM about:
 >
 > > Which page of the SFML 3 documentation explains how to check if a key is being held down? Just give me the link.
 
-## Part 2.1: Choose a starter (~5 minutes)
+## Part 2.1: Choose a starter
 
 Pick **one** of the five starters below. Each is a complete, working, heavily-commented program in its own folder under `starters/`, and contains exactly **two TODOs** for you to complete. Compile it and run it before changing anything, so you know what it already does. For example:
 
@@ -122,7 +122,7 @@ Press A, S, or D to play a note, and watch its pad light up.
 - **Docs:** [Playing sounds and music](https://www.sfml-dev.org/tutorials/3.0/audio/sounds/) · [`sf::Sound` reference](https://www.sfml-dev.org/documentation/3.0.2/classsf_1_1Sound.html) (scroll down to see the functions it inherits from `sf::SoundSource`)
 - **Stretch ideas:** change the pitch with the Left/Right arrow keys; load a `.wav` or `.ogg` file of your own; make a whole octave of keys.
 
-## Part 2.2: Read the docs and extend your starter (~45 minutes)
+## Part 2.2: Read the docs and extend your starter
 
 Complete **both TODOs** in your starter. Each TODO comment includes a "Done when" line that tells you exactly what working looks like.
 
